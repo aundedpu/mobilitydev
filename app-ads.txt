@@ -329,4 +329,6 @@ openx.com, 540871654, RESELLER, 6a698e2ec38604c6
 thunder-monetize.com, 8221217003, RESELLER
 video.unrulymedia.com, 498216989, RESELLER
 eskimi.com, 2020000545, RESELLER
+betweendigital.com, 45827, RESELLER
+betweendigital.com, 45329, RESELLER
 google.com, pub-3429249998315365, DIRECT, f08c47fec0942fa0
